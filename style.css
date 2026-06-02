@@ -1,0 +1,22 @@
+#menubar{
+            background-color: black;
+            color: white;
+            height: 50px;
+            line-height: 50px;
+}
+#menubar ul{
+            list-style: none;
+            margin: 0;
+            padding: 0;
+}
+#menubar ul li{
+            display: inline-block;
+            margin-right: 20px;
+}
+#menubar ul li a{
+            color: white;
+            text-decoration: none;
+}
+#menubar ul li a:hover{
+            text-decoration: underline;
+}
